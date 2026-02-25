@@ -1,0 +1,44 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# LogiBoltSync Specific
+config.json
+
+# Tests & Debug Logs
+tests/
+*.txt
+*.log
+
+# Private Design Docs & Prompts
+docs/PROMPTS.md
+docs/REQUIREMENTS.md
+docs/SETUP_PC1.md
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
